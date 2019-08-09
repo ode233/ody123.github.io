@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://ody123.github.io/"/>
   <updated>2019-08-08T11:34:50.772Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://ody123.github.io/</id>
   
   <author>
     <name>ode</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/08/08/hello-world/"/>
-    <id>http://yoursite.com/2019/08/08/hello-world/</id>
+    <link href="https://ody123.github.io/2019/08/08/hello-world/"/>
+    <id>https://ody123.github.io/2019/08/08/hello-world/</id>
     <published>2019-08-08T11:34:50.772Z</published>
     <updated>2019-08-08T11:34:50.772Z</updated>
     
